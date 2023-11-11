@@ -7,4 +7,6 @@ C Simple shell project
 *******AUTHORS*********
 
 MFURA Yves <mfurayves25@gmail.com>
+
 TWAYINGANYIKI Promis Leonce <leopromus@gmail.com>
+

@@ -5,6 +5,7 @@
  * @s: the string to be converted
  * Return: 0 if no numbers in string, converted number otherwise
  *       -1 on error
+ * Done by Yves and leonce
  */
 int _erratoi(char *s)
 {

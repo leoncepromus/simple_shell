@@ -5,6 +5,7 @@
  * @str: the input string
  * @d: the delimeter string
  * Return: a pointer to an array of strings, or NULL on failure
+ * Done by Yves and leonce
  */
 
 char **strtow(char *str, char *d)

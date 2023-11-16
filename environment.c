@@ -5,6 +5,7 @@
  * @info: Structure containing potential arguments. Used to maintain
  *          constant function prototype.
  * Return: Always 0
+ * Done by Yves and leonce
  */
 int _myenv(info_t *info)
 {

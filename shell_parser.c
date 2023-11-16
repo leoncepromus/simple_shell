@@ -6,7 +6,9 @@
  * @path: path to the file
  *
  * Return: 1 if true, 0 otherwise
+ * Done by YVes and leonce
  */
+
 int is_cmd(info_t *info, char *path)
 {
 	struct stat st;

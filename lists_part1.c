@@ -5,9 +5,10 @@
  * @head: address of pointer to head node
  * @str: str field of node
  * @num: node index used by history
- *
+ * Done by Yves and leonce
  * Return: size of list
  */
+
 list_t *add_node(list_t **head, const char *str, int num)
 {
 	list_t *new_head;

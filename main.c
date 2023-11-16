@@ -6,7 +6,9 @@
  * @av: arg vector
  *
  * Return: 0 on success, 1 on error
+ * Done by Yves and leonce
  */
+
 int main(int ac, char **av)
 {
 	info_t info[] = { INFO_INIT };

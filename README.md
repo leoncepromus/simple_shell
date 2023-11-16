@@ -1,4 +1,4 @@
-Simple Shell Project - ALX - Sodtware Engineering
+Simple Shell Project - ALX - Software Engineering
 
 This repository contains a UNIX command line interpreter, a simple shell, developed in C as part of a project to meet various requirements and milestones.
 

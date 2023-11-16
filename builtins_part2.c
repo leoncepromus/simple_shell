@@ -6,6 +6,7 @@
  * @info: Structure containing potential arguments. Used to maintain
  *        constant function prototype.
  *  Return: Always 0
+ * Done by Yves and leonce
  */
 int _myhistory(info_t *info)
 {
@@ -20,6 +21,7 @@ int _myhistory(info_t *info)
  *
  * Return: Always 0 on success, 1 on error
  */
+
 int unset_alias(info_t *info, char *str)
 {
 	char *p, c;

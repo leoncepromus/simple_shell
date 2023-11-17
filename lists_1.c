@@ -5,6 +5,7 @@
  * @h: pointer to first node
  *
  * Return: size of list
+ * done by Yves and leonce
  */
 size_t list_len(const list_t *h)
 {

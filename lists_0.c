@@ -7,6 +7,7 @@
  * @num: node index used by history
  *
  * Return: size of list
+ * done by Yves and leonce
  */
 list_t *add_node(list_t **head, const char *str, int num)
 {

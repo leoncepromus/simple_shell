@@ -6,6 +6,7 @@
  *          constant function prototype.
  *  Return: exits with a given exit status
  *         (0) if info.argv[0] != "exit"
+ * done by yves and leonce
  */
 int _myexit(info_t *info)
 {
